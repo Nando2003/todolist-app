@@ -11,4 +11,4 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 # todolist-app
 
-Link of the app in Snack: [@expo](https://snack.expo.dev/@zuth/to-do-list-app)
+Link of the app in Snack: [@TodoListApp](https://snack.expo.dev/@zuth/to-do-list-app)
